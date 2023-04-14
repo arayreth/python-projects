@@ -1,4 +1,5 @@
 print("Hello ! \nThis program lets you know the number of days in a month according to its year !")
+## ask the years
 input_years = input("What is the year ?")
 ## if the input of years is a string, give an error message else continue
 if input_years.isdigit(): 
