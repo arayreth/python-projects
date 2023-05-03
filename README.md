@@ -6,6 +6,7 @@
   
 * [Number of days in a month](https://github.com/arayreth/python-projects/tree/main/calculator/month)  
 * [Average calculator](https://github.com/arayreth/python-projects/tree/main/calculator/average)    
-* [Password generator](https://github.com/arayreth/python-projects/tree/main/security/password_generator)   
+* [Password generator](https://github.com/arayreth/python-projects/tree/main/security/password_generator)
+* [Ohm's law calculator](https://github.com/arayreth/python-projects/tree/main/calculator/ohms)    
 
 Made by [Rayreth](https://rayreth.me/) with 💖 !
