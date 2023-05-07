@@ -1,6 +1,7 @@
 def Average(list):
     return sum(list) / len(list)
 
+print("Bonjour \nCe programme te permet de calculer ta moyenne !")
 number_grades_input = int(input("Combien de notes as tu ? "))
 list = [  ]
 for x in range(number_grades_input):

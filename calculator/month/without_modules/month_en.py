@@ -18,7 +18,7 @@ if input_years.isdigit():
             elif month_bis in list_31_day:
                 print("this month has 31 days !")   
             else:
-                print("This month has 30 days !)    
+                print("This month has 30 days !")    
         else:
             print("You need to enter a real month !")
             quit()
